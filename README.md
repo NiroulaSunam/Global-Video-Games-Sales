@@ -10,4 +10,4 @@ The link for the image or the dashboard is given in :
 
 https://public.tableau.com/app/profile/sunam.niroula/viz/GlobalVideoGamesSalesPublishersandGenretheyPublishedPieChart/PublishersandGenrePieChart
 
-The file present in this file can be opened in Tableau.
+The file present in the folder can be opened in Tableau.
