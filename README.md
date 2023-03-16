@@ -5,7 +5,7 @@ Exploratory Data Analysis of 'Global Video Games Sales' data downloaded from:
 
 https://www.kaggle.com/datasets/thedevastator/global-video-game-sales
 
-Since the images are very large, it couldnot be downloaded as a pdf or png. 
+Since the images are very large, it could not be downloaded as a pdf or png. 
 The link for the image or the dashboard is given in :
 
 https://public.tableau.com/app/profile/sunam.niroula/viz/GlobalVideoGamesSalesPublishersandGenretheyPublishedPieChart/PublishersandGenrePieChart
